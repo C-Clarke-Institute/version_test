@@ -1,9 +1,5 @@
 ages = [15, 56,68, 54, 33, 45 , 78, 12, 22, 24, 22, 67, 55, 40, 11,33]
 
-# under 14 - kids,
-# 15 - 30 - youth
-# 31 - 59 middle age
-# over 60 -  elder citizens
 
 
 kids = []
