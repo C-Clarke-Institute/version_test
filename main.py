@@ -1,5 +1,4 @@
-print("git confflict")
+def fun():
+    print("jjhdjshd")
 
-print("hjddh djkj jfhjd")
-
-print("final conflict skdjm kdjsk jdksj jshdjs skjd ddshdd kjsk ")
+fun()
